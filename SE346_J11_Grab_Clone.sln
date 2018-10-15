@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE346_J11_Grab_Clone.Android", "SE346_J11_Grab_Clone\SE346_J11_Grab_Clone.Android\SE346_J11_Grab_Clone.Android.csproj", "{F675B890-F8C4-4741-932F-CCC096C0BD9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE346_J11_Grab_Clone", "SE346_J11_Grab_Clone\SE346_J11_Grab_Clone\SE346_J11_Grab_Clone.csproj", "{FDFF4957-EBED-421E-9A83-2B926A10CA14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F675B890-F8C4-4741-932F-CCC096C0BD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F675B890-F8C4-4741-932F-CCC096C0BD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F675B890-F8C4-4741-932F-CCC096C0BD9B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F675B890-F8C4-4741-932F-CCC096C0BD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F675B890-F8C4-4741-932F-CCC096C0BD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F675B890-F8C4-4741-932F-CCC096C0BD9B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FDFF4957-EBED-421E-9A83-2B926A10CA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFF4957-EBED-421E-9A83-2B926A10CA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFF4957-EBED-421E-9A83-2B926A10CA14}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FDFF4957-EBED-421E-9A83-2B926A10CA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFF4957-EBED-421E-9A83-2B926A10CA14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFF4957-EBED-421E-9A83-2B926A10CA14}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {777E6666-B80A-495C-AB09-DF3CC694A63F}
+	EndGlobalSection
+EndGlobal
